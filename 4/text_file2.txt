@@ -1,0 +1,8 @@
+Information retrieval (IR) may be defined as a software program that deals with the organization, storage, retrieval and evaluation of information from document repositories particularly textual information.
+The system assists users in finding the information they require but it does not explicitly return the answers of the questions.
+It informs the existence and location of documents that might consist of the required information.
+The documents that satisfy user’s requirement are called relevant documents.
+A perfect IR system will retrieve only relevant documents.
+Seaborn is a Python data visualization library based on matplotlib.
+It provides a high-level interface for drawing attractive and informative statistical graphics.
+For a brief introduction to the ideas behind the library, you can read the introductory notes or the paper.
